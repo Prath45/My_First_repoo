@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    background-color:skyblue;
+    
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+#home-el {
+    background-color: blueviolet;
+    padding: 20px;
+    border-radius: 10px;
+    font-family: 'Cursed Timer ULiL';;
+    font-size: 30px;
+}
+ #guest-el{
+     background-color: blueviolet;
+     padding: 20px;
+     border-radius: 10px;
+     font-family: 'Cursed Timer ULiL';
+    font-size: 30px;
+ }
+ 
+ button{
+     background-color: aqua;
+     border-radius: 3px;
+     
+ }
+ 
+ footer{
+     background-color: gray;
+     align-self:auto;
+     text-align: center;
+     padding-top: 10px;
+     padding-bottom: 27px;
+ }
